@@ -10,6 +10,6 @@
 `        @override`<br>
 `        public void onRunning(String text)`<br>
 `        {`<br>
-`                  //这里你可以将内容打印到任何地方，比如TextView的setText(内容)`<br>
+`             //这里你可以将内容打印到任何地方，比如TextView的setText(内容)`<br>
 `        }`<br>
 `});`<br>
